@@ -14,9 +14,9 @@ Ref:  [#1](https://huggingface.co/blog/how-to-generate)   [#2](https://colab.res
 
 # Task 2
 
-Task-02
+## Task-02
 
-Image Generation with Pre-trained Models
+## Image Generation with Pre-trained Models
 
 Utilize pre-trained generative models like DALL-E-mini or Stable Diffusion to create images from text prompts.
 
@@ -26,9 +26,9 @@ Ref:  [#1](https://www.tensorflow.org/tutorials/generative/generate_images_with_
 
 # Task 3
 
-Task-03
+## Task-03
 
-Text Generation with Markov Chains
+## Text Generation with Markov Chains
 
 Implement a simple text generation algorithm using Markov chains. This task involves creating a statistical model that predicts the probability of a character or word based on the previous one(s).
 
@@ -36,9 +36,9 @@ Ref: [#1](https://towardsdatascience.com/text-generation-with-markov-chains-an-i
 
 # Task 4
 
-Task-04
+## Task-04
 
-Image-to-Image Translation with cGAN
+## Image-to-Image Translation with cGAN
 
 Implement an image-to-image translation model using a conditional generative adversarial network (cGAN) called pix2pix. 
 
@@ -46,9 +46,9 @@ Ref: [#1](https://www.geeksforgeeks.org/conditional-generative-adversarial-netwo
 
 # Task 5
 
-Task-05
+## Task-05
 
-Style Transfer
+## Style Transfer
 
 Apply the artistic style of one image (e.g., a famous painting) to the content of another image using neural style transfer. 
 
